@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://user:user@cluster0.fdm4sro.mongodb.net/?retryWrites=true&w=majority
+      database : Konoha
